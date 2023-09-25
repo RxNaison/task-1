@@ -1,0 +1,8 @@
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\bin\Debug\megasuperapp.exe.config
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\bin\Debug\megasuperapp.exe
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\bin\Debug\megasuperapp.pdb
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\obj\Debug\megasuperapp.csproj.AssemblyReference.cache
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\obj\Debug\megasuperapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\obj\Debug\megasuperapp.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\obj\Debug\megasuperapp.exe
+C:\Users\nata\source\repos\megasuperapp\megasuperapp\obj\Debug\megasuperapp.pdb
